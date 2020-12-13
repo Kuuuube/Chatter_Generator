@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parkinsons++Ultra", "Parkinsons++Ultra.csproj", "{A930F8EE-A9B2-4AB0-A6DF-3B3B67C41B1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenTabletDriver.Plugin", ".modules\OpenTabletDriver\OpenTabletDriver.Plugin\OpenTabletDriver.Plugin.csproj", "{20DC0BF5-2556-4E50-AD8F-F6C34B1E7590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A930F8EE-A9B2-4AB0-A6DF-3B3B67C41B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930F8EE-A9B2-4AB0-A6DF-3B3B67C41B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A930F8EE-A9B2-4AB0-A6DF-3B3B67C41B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A930F8EE-A9B2-4AB0-A6DF-3B3B67C41B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DC0BF5-2556-4E50-AD8F-F6C34B1E7590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DC0BF5-2556-4E50-AD8F-F6C34B1E7590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DC0BF5-2556-4E50-AD8F-F6C34B1E7590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DC0BF5-2556-4E50-AD8F-F6C34B1E7590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F030DC-5661-42F1-85C5-0A445E868607}
+	EndGlobalSection
+EndGlobal
