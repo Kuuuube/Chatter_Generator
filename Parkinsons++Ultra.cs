@@ -7,7 +7,7 @@ using System.Numerics;
 
 namespace Parkinsons
 {
-    [PluginName("Parkinsons")]
+    [PluginName("Parkinsons++ Ultra")]
     public class Parkinsons : Interpolator
     {
 
@@ -34,8 +34,8 @@ namespace Parkinsons
 
         public Vector2 Filter(Vector2 point)
         {
-            point.X += seed.Next(intensity*100) - offset;
-            point.Y += seed.Next(intensity*100) - offset;
+            point.X += seed.Next(intensity*10) - offset;
+            point.Y += seed.Next(intensity*10) - offset;
             return point;
         }
 
@@ -55,7 +55,7 @@ namespace Parkinsons
         }
         public float TimerInterval
         {
-            get => 1000 / Hertz;
+            get => 1000 / Frequency;
         }
     }
 }
