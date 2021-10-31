@@ -1,4 +1,4 @@
-# Chatter_Generator Plugin for [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) [![](https://img.shields.io/github/downloads/Kuuuube/Chatter_Generator/total.svg)](https://github.com/Kuuuube/Chatter_Generator/releases/latest)
+# Chatter Generator Plugin for [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) [![](https://img.shields.io/github/downloads/Kuuuube/Chatter_Generator/total.svg)](https://github.com/Kuuuube/Chatter_Generator/releases/latest)
 
 Add chatter, shake, noise, etc to your tablet input.
 
