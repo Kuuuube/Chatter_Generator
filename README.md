@@ -2,9 +2,15 @@
 
 Add chatter, shake, noise, etc to your tablet input.
 
-## Explanation of the values:
+## Disclaimer:
+
+### This plugin has the potential to trip anticheats in some games when using high **Chatter Intensity**. I am not responsible for any consequences you may face from the use of this plugin.
+
+Responsible use of the plugin to add moderate amounts of chatter, shake, or noise is unlikely to cause issues.
 
 <br>
+
+## Explanation of the values:
 
 **Chatter Intensity:** The amount of chatter to be added.
 
@@ -13,8 +19,6 @@ Add chatter, shake, noise, etc to your tablet input.
 <br>
 
 ## Explanation of the filter types:
-
-<br>
 
 **Chatter Generator Match Rate:** Adds chatter every tablet report, matching your current tablet's report rate.
 
