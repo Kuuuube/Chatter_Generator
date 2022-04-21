@@ -8,15 +8,11 @@ Add chatter, shake, noise, etc to your tablet input.
 
 Reasonable use of Chatter Generator to add moderate amounts of chatter, shake, or noise is unlikely to cause issues.
 
-<br>
-
 ## Explanation of the values:
 
 **Chatter Intensity:** The amount of chatter to be added.
 
 **Frequency:** The rate at which reports should be sent when using **Chatter Generator Variable Rate**. 
-
-<br>
 
 ## Explanation of the filter types:
 
