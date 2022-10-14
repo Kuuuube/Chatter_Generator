@@ -37,7 +37,9 @@ namespace Chatter_Generator
 
         public PipelinePosition Position => PipelinePosition.PostTransform;
 
-        [Property("Chatter Intensity"), DefaultPropertyValue(10f), ToolTip("The amount of chatter to be added.")]
+        [Property("Chatter Intensity"), DefaultPropertyValue(10f), ToolTip 
+        ("Chatter Generator Match Rate:\n\n" + 
+        "The amount of chatter to be added.")]
         public float Intensity
         {
             get => intensity;
