@@ -20,4 +20,4 @@ Adds chatter based on the **Frequency** you specify, independent of your tablet'
 
 **Chatter Intensity:** The amount of chatter to be added.
 
-**Frequency:** The rate at which chatter should be generated. This value should always be at or higher than your tablet's report rate.
+**Frequency:** The rate at which chatter will be generated. This value should always be at or higher than your tablet's report rate.
