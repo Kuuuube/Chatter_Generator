@@ -29,6 +29,7 @@ namespace Chatter_Generator
             {
                 originalPos = report.Position;
             }
+            OnEmit();
         }
 
         protected override void UpdateState()
