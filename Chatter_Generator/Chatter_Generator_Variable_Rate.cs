@@ -25,7 +25,7 @@ namespace Chatter_Generator
 
         protected override void ConsumeState()
         {
-            if (State is ITabletReport report)
+            if (State is IAbsolutePositionReport report)
             {
                 originalPos = report.Position;
             }
@@ -34,12 +34,12 @@ namespace Chatter_Generator
 
         protected override void UpdateState()
         {
-            if (State is ITabletReport report)
+            if (State is IAbsolutePositionReport report)
             {
                 report.Position = originalPos + CalculateOffset();
             }
 
-            if (PenIsInRange() || State is not ITabletReport)
+            if (PenIsInRange() || State is not IAbsolutePositionReport)
             {
                 OnEmit();
             }

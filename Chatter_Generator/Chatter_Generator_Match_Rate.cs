@@ -26,7 +26,7 @@ namespace Chatter_Generator
 
         public void Consume(IDeviceReport value)
         {
-            if (value is ITabletReport report)
+            if (value is IAbsolutePositionReport report)
             {
                 report.Position = report.Position + CalculateOffset();
                 value = report;
