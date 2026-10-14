@@ -2,11 +2,10 @@
 
 Add chatter, shake, noise, etc to your tablet input.
 
-## Disclaimer:
-
-### Chatter Generator has the potential to trip anti-cheats in some games when using high Chatter Intensity. Use this plugin at your own risk.
-
-Reasonable use of Chatter Generator to add moderate amounts of chatter, shake, or noise is unlikely to cause issues.
+> [!CAUTION]
+> Chatter Generator has the potential to trip anti-cheats in some games when using high Chatter Intensity. Use this plugin at your own risk.
+>
+> Reasonable use of Chatter Generator to add moderate amounts of chatter, shake, or noise is unlikely to cause issues but no guarantee is given.
 
 ## Chatter Generator Match Rate:
 
